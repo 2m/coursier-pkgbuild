@@ -1,4 +1,4 @@
-# Package build description for coursier [![travis-badge][]][travis]
+# Package build description for coursier [![ci-badge][]][ci]
 
 [ci]:         https://circleci.com/gh/2m/coursier-pkgbuild 
 [ci-badge]:   https://circleci.com/gh/2m/coursier-pkgbuild.svg?style=shield
