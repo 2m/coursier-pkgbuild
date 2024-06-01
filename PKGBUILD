@@ -20,7 +20,6 @@ build() {
   export COURSIER_CACHE="${srcdir}/cache"
   sh ./builder-$pkgver bootstrap \
     "io.get-coursier::coursier-cli:${_version}" \
-    --java-opt "-noverify" \
     --no-default \
     -r central \
     -r typesafe:ivy-releases \
