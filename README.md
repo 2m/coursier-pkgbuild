@@ -25,3 +25,9 @@ Then push to AUR git repository by:
 git remote add aur ssh://aur@aur.archlinux.org/coursier.git
 git push aur
 ```
+
+## Updating
+
+```
+pkgctl version upgrade
+```

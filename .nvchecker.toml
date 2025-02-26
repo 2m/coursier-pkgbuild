@@ -1,0 +1,4 @@
+[coursier]
+source = "git"
+git = "https://github.com/coursier/coursier.git"
+prefix = "v"
